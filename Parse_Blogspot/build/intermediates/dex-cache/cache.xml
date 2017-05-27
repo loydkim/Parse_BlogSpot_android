@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/youngsickim/Downloads/Parse_Blogspot/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97e44d79e5c022ba243e0c89d0e7cad057d1cc32">
+        <dex dex="/Users/youngsickim/Downloads/Parse_Blogspot/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5e10f7dba68bb3c10d46524602f4e797610fba85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youngsickim/Downloads/Parse_Blogspot/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/youngsickim/Downloads/Parse_Blogspot/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_37bb59b70b9a2c16b07f81d93844c54627af4995/classes.dex" />
+    </item>
+
+</items>
