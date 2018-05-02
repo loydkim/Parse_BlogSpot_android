@@ -12,6 +12,6 @@ Develop environment.
 You can watch how to make it in my youtube channel and blog !
 
 - Youtube link : https://youtu.be/vwqUIaAxl-4
-- Blog post link : http://devloydkim.blogspot.ca/2017/05/android-how-to-how-to-parse-blogspot.html
+- Blog post link : https://loydioslab.blogspot.ca/2017/05/android-how-to-how-to-parse-blogspot.html
 
 Thank you :)
